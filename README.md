@@ -7,3 +7,8 @@ accelerate SF Hack
 * pip install -r requirements.txt
 * export OPENAI_API_KEY=<OPENAI_API_KEY>
 * streamlit run main.py
+
+# frontned
+* cd frontend
+* npm install
+* npm start
